@@ -5,6 +5,7 @@
 - Jquery
 - VueJs
 - Php(Laravel,Yii2,Code Igniter,Phalcon)
+- Python and Django
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on a chat application project.
 - 📫 How to reach me alimosinali007@gmail.com
